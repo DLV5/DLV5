@@ -2,7 +2,10 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=479F54&width=435&lines=Computer+science+student" alt="Typing SVG" /></a>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlv5)](https://github.com/anuraghazra/github-readme-stats)
+<h3> Computer science student based in Tampere, Finland, also have a vocational degree in game development</h3>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dlv5&theme=solarized_dark)
+
 <!--
 **DLV5/DLV5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
